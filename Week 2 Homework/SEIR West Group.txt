@@ -1,0 +1,5 @@
+Spotter = Michael Nyadimo
+
+Teammates = John Williams, Michael Nyadimo & Tony Gentry
+
+Meeting days & times = Mon & Thu, 6:30-8 PM PST
